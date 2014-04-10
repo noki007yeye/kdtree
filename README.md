@@ -24,13 +24,6 @@ Requirements
 * g++ 4.4+
 * gnu make
 
-Building
---------
-
-* cmake -DCMAKE_PREFIX_PATH=/opt/local .
-* make
-* sudo make install
-
 Contributing
 ------------
 
